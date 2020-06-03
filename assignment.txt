@@ -1,0 +1,20 @@
+todo:
+
+design main menu (terakhir)
+
+1. register
+    done
+
+2. testing
+    - catat hasil tes
+    - inkremen jumlah tes di pasien supaya berurutan
+    - kembali ke menu?
+    - rm faggot
+
+3. setting
+
+
+4. statistik
+
+
+5. search
